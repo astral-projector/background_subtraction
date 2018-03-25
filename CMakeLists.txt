@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 project( alpha )
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11" )
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -framework ApplicationServices" )
 find_package(OpenCV REQUIRED PATHS /usr/local/share/OpenCV NO_DEFAULT_PATH)
 include_directories(${OpenCV_INCLUDE_DIRS})
 add_executable( alpha alpha.cpp )
