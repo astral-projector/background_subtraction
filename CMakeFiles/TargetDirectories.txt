@@ -1,3 +1,0 @@
-/Users/chrishoyle/documents/projs/background_subtraction/CMakeFiles/rebuild_cache.dir
-/Users/chrishoyle/documents/projs/background_subtraction/CMakeFiles/edit_cache.dir
-/Users/chrishoyle/documents/projs/background_subtraction/CMakeFiles/alpha.dir
